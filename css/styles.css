@@ -595,7 +595,7 @@ pre code {
 }
 
 .android {
-  width: 90%;
+  width: 85%;
   background-color: #bd5d38;
 } /* Green */
 .java {
@@ -603,15 +603,15 @@ pre code {
   background-color: #bd5d38;
 } /* Blue */
 .kotlin {
-  width: 80%;
+  width: 75%;
   background-color: #bd5d38;
 } /* Red */
 .python {
-  width: 80%;
+  width: 75%;
   background-color: #bd5d38;
 } /* Dark Grey */
 .htmlcss {
-  width: 80%;
+  width: 75%;
   background-color: #bd5d38;
 } /* Dark Grey */
 .javascript {
